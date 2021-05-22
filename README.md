@@ -1,1 +1,1 @@
-# bankground-generator
+# background-generator
